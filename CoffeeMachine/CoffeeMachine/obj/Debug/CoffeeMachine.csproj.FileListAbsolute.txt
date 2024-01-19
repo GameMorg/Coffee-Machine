@@ -1,0 +1,5 @@
+C:\Users\mylis\Documents\SharpDevelop Projects\CoffeeMachine\CoffeeMachine\bin\Debug\CoffeeMachine.exe
+C:\Users\mylis\Documents\SharpDevelop Projects\CoffeeMachine\CoffeeMachine\bin\Debug\CoffeeMachine.pdb
+C:\Users\mylis\Documents\SharpDevelop Projects\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.csprojResolveAssemblyReference.cache
+C:\Users\mylis\Documents\SharpDevelop Projects\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.exe
+C:\Users\mylis\Documents\SharpDevelop Projects\CoffeeMachine\CoffeeMachine\obj\Debug\CoffeeMachine.pdb
