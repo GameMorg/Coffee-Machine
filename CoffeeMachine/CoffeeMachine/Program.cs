@@ -24,7 +24,8 @@ namespace CoffeeMachine
 				check = Checking_readiness();
 				Expectation_pass();
 				int drink = Choosing_drink();
-				
+				Console.WriteLine("Оплатие заказ!");
+				money = int.Parse(Console.ReadLine());
 				if (Payment(money))
 				{
 					Making_drink(drink);
